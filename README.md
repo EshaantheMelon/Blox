@@ -2,8 +2,8 @@
 This project is a modification of the Hyperledger Sawtooth Supply chain asset client (Asset Track)
 to function on devices of multiple screen widths and with a standalone view when added to the home screen.
 Sawtooth Supply Chain was originally developed by Hyperledger, Blox is a modification of the AssetTrack client 
-through the Creative Commons Attribution 4.0 International License. This porject is developed to bring
-Sawtooth's Supply Chain capabilities to additional devices through some modifications to make it more usable.
+through the Creative Commons Attribution 4.0 International License. This project is developed to bring
+Sawtooth's Supply Chain capabilities to additional devices through some modifications to make it more usable. This project also utilises many Progressive Web App (PWA) features in its modification of AssetTrack.
 
 # Sawtooth Supply Chain
 
